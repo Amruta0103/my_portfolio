@@ -43,6 +43,7 @@ body{
 
 .link{
   border-radius: 0.5rem;
+  color:white;
   border:1px solid white;
   text-decoration: none;
   padding: 0rem 1rem;
@@ -56,7 +57,12 @@ body{
   background-color:#93C5FD;
 }
 .img-intro{
-  max-width: 300px;
+  max-width: 400px;
   display:block;
-  margin:auto
+  margin:auto;
+}
+.img{
+  max-width: 500px;
+  display:block;
+  margin:auto;
 }
