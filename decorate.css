@@ -21,7 +21,7 @@ hr{
 }
 
 nav{
-  padding: 2rem 0rem;
+  padding: 1rem 0rem;
 }
 
 .head-foot-block{
@@ -33,7 +33,7 @@ nav{
 
 .head-block-options{
   display:inline;
-  padding:1rem 0.5rem;
+  padding:0rem 0.5rem;
   list-style: none;
   text-align: center;
 }
@@ -78,11 +78,11 @@ nav{
 }
 
 .images{
-  padding:0rem 3rem;
   text-align:center;
   max-width: 300px;
   display:block;
   margin:auto;
+  padding-top: 1rem;
 }
 
 .block{
