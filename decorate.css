@@ -74,6 +74,7 @@ hr{
 }
 
 .images{
+  padding:0rem 3rem;
   align-content:center;
   max-width: 400px;
   display:block;
