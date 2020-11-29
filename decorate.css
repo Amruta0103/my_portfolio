@@ -29,7 +29,7 @@ hr{
 
 .head-block-options{
   display:inline;
-  padding:1rem 0.5rem;
+  padding:0.5rem 0.5rem;
   list-style: none;
   text-align: center;
 }
@@ -45,14 +45,14 @@ hr{
 }
 
 .link{
-  padding:0.5rem;
+  padding:0.5rem 0.5rem;
   color:white;
   text-decoration: none;
   text-align: center;
 }
 
 .act-link{
-  padding:0.5rem;
+  padding:0.5rem 0.5rem;
   color:white;
   text-decoration: none;
   text-align: center;
