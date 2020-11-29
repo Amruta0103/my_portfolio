@@ -66,12 +66,14 @@ hr{
 }
 
 .img-block{
-  padding:1rem;
-  align-self:center;
+  text-align: center;
+  padding:0rem 3rem;  
+  max-width: 400px;
+  display:block;
+  margin:auto;
 }
 
 .images{
-  padding:0.5rem;
   align-content:center;
   max-width: 400px;
   display:block;
