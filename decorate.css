@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,400;0,800;1,600&display=swap');
 
 body{
-  background-color: #93C5FD;
-  color: beige;
+  background-color: #FFF;
+  color: #71711b;
   font-family: 'Nunito Sans', sans-serif;
   font-size: large;
   
@@ -14,7 +14,7 @@ body{
 }
 
 hr{
-  color:white;
+  color:#71711b;
   width:30%;
   text-align:center;
   border: 2px solid;
@@ -48,9 +48,16 @@ nav{
   padding-inline-start: 0px;
 }
 
-.link{
+.link-head-foot{
   padding:0.5rem;
   color:white;
+  text-decoration: none;
+  text-align: center;
+}
+
+.link{
+  padding:0.5rem;
+  color: #71711b;
   text-decoration: none;
   text-align: center;
 }
@@ -65,8 +72,9 @@ nav{
 }
 
 .link-connect{
+  color: #71711b;
   border-radius: 1rem;
-  border: 2px solid white;
+  border: 2px solid #71711b;
 }
 
 .img-block{
@@ -135,7 +143,7 @@ nav{
   list-style: none;
   text-align: center;
   border-radius: 1rem;
-  border: 2px solid white;
+  border: 2px solid #71711b;
   padding-inline-start: 0px;
 }
 
@@ -153,8 +161,8 @@ nav{
   display:inline;
   list-style: none;
   border-radius: 1rem;
-  border: 2px solid white;
+  border: 2px solid #71711b;
   margin:2rem;
   padding:0rem 1rem;
-  color:white;
+  color: #71711b;
 }
