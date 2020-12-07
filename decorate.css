@@ -15,6 +15,13 @@ hr{
   border: 2px solid;
 }
 
+.hr-proj{
+  color:rgb(105, 104, 104);
+  width:100%;
+  text-align:center;
+  border: 2px solid;
+}
+
 .foot-block{
   background-color: #246fe7;
   color:white;
