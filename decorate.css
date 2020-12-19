@@ -23,6 +23,7 @@ hr{
 }
 
 .foot-block{
+  text-align: center;
   background-color: #246fe7;
   color:white;
   border-top-left-radius: 2rem;
@@ -65,7 +66,7 @@ hr{
 .name-color{
   color: #246fe7;
 }
-.link-head-foot{
+.link-head{
   padding:0.5rem;
   color:white;
   text-decoration: none;
@@ -98,9 +99,15 @@ hr{
   position:absolute;
   max-width:250px;
   height:100%;
-  display: block;
+  display: inline-block;
   padding:1rem 1rem;
   margin:0.5rem 1rem;
+}
+
+.right-sec{
+  margin-left:250px;
+  display:block;
+  align-content: flex-end;
 }
 
 .link-connect{
@@ -140,6 +147,7 @@ hr{
 }
 
 .list-foot{
+  display:inline;
   text-align: center;
   list-style: none;
   margin-block-start: 0em;
@@ -152,10 +160,22 @@ hr{
 .foot-block-options{
   display:inline;
   list-style: none;
-  text-align: center;
+  text-align:center;
+  margin: 2rem;
+  background-color: white;
+  padding-bottom: 0rem;
+  padding-top:1rem;
+  padding-left:1rem;
+  padding-right: 1rem;
   border-radius: 1rem;
-  border: 2px solid white;
-  margin: 0.5rem 1rem;
+}
+
+.link-foot{
+  background-color: white;
+  padding:0rem;
+  color:white;
+  text-decoration: none;
+  text-align: center;
 }
 
 .list-projs-main{
