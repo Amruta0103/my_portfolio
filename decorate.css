@@ -90,28 +90,28 @@ hr{
 
 .left-sec{
   margin-top:1rem;
-  margin-left:0px;
-  margin-right: 0px;
+  margin-left:auto;
+  margin-right: auto; 
   border: 3px solid #246fe7;
   border-radius: 2rem;
   text-align: center;
-  position:absolute;
-  max-width:250px;
-  display: inline-block;
-  padding:1rem 1rem;
-  margin:0.5rem 1rem;
+  max-width:300px;
+  padding:0.5rem 0.5rem;
 }
 
+.my-img{
+  size: 2rem;
+}
 .right-sec{
-  margin-left:250px;
-  display:block;
-  align-content: flex-end;
+  display: block;
+  align-content: center;
 }
 
 .link-connect{
   color: rgb(105, 104, 104);
   border-radius: 1rem;
   border: 2px solid rgb(105, 104, 104);
+
 }
 
 .img-block{
@@ -141,7 +141,6 @@ hr{
   text-align: center;
   display: block;
   padding:1rem 2rem;
-  margin:0.5rem 2rem;
 }
 
 .list-foot{
