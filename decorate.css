@@ -147,7 +147,7 @@ hr{
   display:inline;
   text-align: center;
   list-style: none;
-  padding:0.5rem;
+  padding:0.5rem 0rem;
   margin-block-start: 0em;
   margin-block-end: 0em;
   margin-inline-start: 0px;
