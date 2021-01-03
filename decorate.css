@@ -42,7 +42,7 @@ hr{
 
 .head-block-options{
   display:inline;
-  padding:0rem 0.5rem;
+  padding:1rem 0.5rem;
   list-style: none;
   text-align: center;
 }
@@ -50,6 +50,7 @@ hr{
 .head-list-right{
   text-align: right;
   list-style: none;
+  padding:1.5rem;
   margin-block-start: 0em;
   margin-block-end: 0em;
   margin-inline-start: 0px;
@@ -89,9 +90,7 @@ hr{
 }
 
 .left-sec{
-  margin-top:1rem;
-  margin-left:auto;
-  margin-right: auto; 
+  margin:auto; 
   border: 3px solid #246fe7;
   border-radius: 2rem;
   text-align: center;
